@@ -53,6 +53,9 @@ streamlit run tidy_data_analysis.py
 ## 📸 Visual Examples
 Below are some screenshots of the app in action:
 
+![Screenshot 1](Images/MedalCountImage.png)
+![Screenshot 2](images/screenshot2.png)
+
 
 ## 📚 References
 - [**Tidy Data Principles**](https://vita.had.co.nz/papers/tidy-data.pdf) by Hadley Wickham

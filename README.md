@@ -18,4 +18,9 @@ By applying these principles, we transform messy data into a structured format s
 Ensure you have **Python 3.7+** and the required packages installed. You can install them using:
 ```sh
 pip install streamlit pandas
-
+```
+### **2️⃣ Rune the Streamlit App**
+Clone the repository and navigate to the project folder. Then, run the following command:
+```sh
+streamlit run tidy_data_analysis.py
+```

@@ -51,7 +51,8 @@ streamlit run tidy_data_analysis.py
 ---
 
 ## 📸 Visual Examples
-Below are some screenshots of the app in action:
+Below are some screenshots of the app in action. I first have the raw data displayed.
+Then I have the visualizations I created after cleaning the data.
 ## Raw Data
 <img src="Images/RawDataImage.png" width="600" />
 

@@ -25,7 +25,7 @@ Clone the repository and navigate to the project folder. Then, run the following
 streamlit run tidy_data_analysis.py
 ```
 ## 📊 Dataset Description
-**Dataset**: olympics_08_medalists.csv
+**Dataset**: `olympics_08_medalists.csv`
 
 ### Source & Description
 - Contains medalist information from the 2008 Summer Olympics.

@@ -47,3 +47,10 @@ streamlit run tidy_data_analysis.py
 - ✔ Interactive athlete selection 👤
 - ✔ Dropdowns for filtering medalists 🎖
 - ✔ Styled sections for better readability 🎨
+
+---
+
+## 📚 References & Further Reading
+- [**Tidy Data Principles**](https://vita.had.co.nz/papers/tidy-data.pdf) by Hadley Wickham
+- [**Pandas Cheat Sheet**]([https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf])
+

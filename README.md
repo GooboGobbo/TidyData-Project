@@ -19,7 +19,7 @@ Ensure you have **Python 3.7+** and the required packages installed. You can ins
 ```sh
 pip install streamlit pandas
 ```
-### **2️⃣ Rune the Streamlit App**
+### **2️⃣ Run the Streamlit App**
 Clone the repository and navigate to the project folder. Then, run the following command:
 ```sh
 streamlit run tidy_data_analysis.py

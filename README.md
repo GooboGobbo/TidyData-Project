@@ -24,6 +24,7 @@ Clone the repository and navigate to the project folder. Then, run the following
 ```sh
 streamlit run tidy_data_analysis.py
 ```
+---
 ## 📊 Dataset Description
 **Dataset**: `olympics_08_medalists.csv`
 

@@ -50,7 +50,7 @@ streamlit run tidy_data_analysis.py
 
 ---
 
-## 📚 References & Further Reading
+## 📚 References
 - [**Tidy Data Principles**](https://vita.had.co.nz/papers/tidy-data.pdf) by Hadley Wickham
-- [**Pandas Cheat Sheet**]((https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf))
+- [**Pandas Cheat Sheet**](https://www.datacamp.com/cheat-sheet/pandas-cheat-sheet-for-data-science-in-python)
 

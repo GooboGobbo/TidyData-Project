@@ -24,15 +24,4 @@ Clone the repository and navigate to the project folder. Then, run the following
 ```sh
 streamlit run tidy_data_analysis.py
 ```
-📊 Dataset Description
-Dataset: olympics_08_medalists.csv
 
-Source & Description
-Contains medalist information from the 2008 Summer Olympics.
-Includes details such as athlete names, events, gender, and medals won.
-Pre-processing Steps:
-✅ Used melt() to restructure data.
-✅ Split event names to extract gender and event details.
-✅ Capitalized entries for consistency.
-✅ Dropped duplicates and missing values.
-✅ Created pivot tables for medal counts by event and gender.

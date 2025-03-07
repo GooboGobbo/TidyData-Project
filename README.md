@@ -52,7 +52,7 @@ streamlit run tidy_data_analysis.py
 
 ## 📸 Visual Examples
 Below are some screenshots of the app in action:
-##Raw Data
+## Raw Data
 <img src="Images/RawDataImage.png"  />
 ##Bar Chart Visualization
 <img src="Images/MedalCountImage.png" alt="Screenshot 1" />

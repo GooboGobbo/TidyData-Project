@@ -50,6 +50,10 @@ streamlit run tidy_data_analysis.py
 
 ---
 
+## 📸 Visual Examples
+Below are some screenshots of the app in action:
+
+
 ## 📚 References
 - [**Tidy Data Principles**](https://vita.had.co.nz/papers/tidy-data.pdf) by Hadley Wickham
 - [**Pandas Cheat Sheet**](https://www.datacamp.com/cheat-sheet/pandas-cheat-sheet-for-data-science-in-python)
